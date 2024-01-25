@@ -76,8 +76,14 @@ https://github.com/baka9131/BoxHero-UI-Clone/assets/93738662/68e19225-834b-4ac8-
          실제 클릭되는 부분은 실제 자기가 가지고 있는 최대 크기가 아니라 플러터에서 렌더링 될때 화면에 반영되는 부분만 클릭 범위인 것을 알게 되었다.
          위 부분은 블로그에 내용을 정리 하였다.
          https://baka9131.tistory.com/17
-   
+
    7. 그외 나머지 부분</br>
       ![image](https://github.com/baka9131/BoxHero-UI-Clone/assets/93738662/785090ed-a006-47a2-bd7c-80760af069be)
       ![image](https://github.com/baka9131/BoxHero-UI-Clone/assets/93738662/7e2eaefa-ed28-4fcc-8442-18164a09b9ae)
 
+</br>
+</br>
+
+> 각 아이콘들은 Figma를 통해 제작하였습니다.
+
+<img width="632" alt="image" src="https://github.com/baka9131/BoxHero-UI-Clone/assets/93738662/ce73eba8-bac3-4c95-9b86-7f06bd2ffe94">

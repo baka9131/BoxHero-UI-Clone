@@ -38,8 +38,6 @@ migrate_working_dir/
 /windows/
 pubspec.lock
 .metadata
-/android
-/ios
 
 # Symbolication related
 app.*.symbols
